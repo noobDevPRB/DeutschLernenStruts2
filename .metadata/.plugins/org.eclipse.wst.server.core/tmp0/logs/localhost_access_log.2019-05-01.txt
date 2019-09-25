@@ -1,0 +1,13 @@
+127.0.0.1 - - [01/May/2019:16:13:24 -0300] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:13:54 -0300] "GET /zweit_web_projekt/index.jsp HTTP/1.1" 200 4163
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:13:54 -0300] "GET /zweit_web_projekt/1.png HTTP/1.1" 404 1101
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:13:54 -0300] "GET /zweit_web_projekt/css/style.css HTTP/1.1" 200 1009
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:13:54 -0300] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:14:13 -0300] "POST /zweit_web_projekt/signUp HTTP/1.1" 200 177
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:14:44 -0300] "POST /zweit_web_projekt/login HTTP/1.1" 200 477
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:14:47 -0300] "POST /zweit_web_projekt/verPerfil HTTP/1.1" 200 489
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:14:50 -0300] "POST /zweit_web_projekt/atualizarPerfil HTTP/1.1" 200 534
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:14:56 -0300] "POST /zweit_web_projekt/atualizando HTTP/1.1" 200 571
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:15:02 -0300] "POST /zweit_web_projekt/verPerfil HTTP/1.1" 200 489
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:15:06 -0300] "POST /zweit_web_projekt/login HTTP/1.1" 200 477
+0:0:0:0:0:0:0:1 - - [01/May/2019:16:15:08 -0300] "POST /zweit_web_projekt/verPerfil HTTP/1.1" 200 489

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+
+	<package name="usuario" extends="struts-default">
+
+		
+		
+		<action name="login" class="controller.action.InicioAction"
+			method="logar">
+			<result name="success">/WEB-INF/jsp/dashboard.jsp</result>
+			<result name="failure">/WEB-INF/jsp/loginfalhou.jsp</result>
+		</action>
+
+
+		<action name="deslogar" class="controller.action.UsuarioAction"
+			method="encerrarSessao">
+			<result name="success">/index.jsp</result>
+		</action>
+
+
+		<action name="verPerfil"
+			class="controller.action.UsuarioAction" method="consultarPerfil">
+			<result name="success">/WEB-INF/jsp/perfil.jsp</result>
+		</action>
+
+
+		<action name="testarSessao"
+			class="controller.action.UsuarioAction" method="verificarSessao">
+			<result name="success">/WEB-INF/jsp/dashboard.jsp</result>
+		</action>
+
+
+		<action name="encerrandoConta"
+			class="controller.action.UsuarioAction" method="encerrarConta">
+			<result name="success">/index.jsp</result>
+		</action>
+
+
+		<action name="signUp" class="controller.action.UsuarioAction"
+			method="signUp">
+			<result name="success">/WEB-INF/jsp/success.jsp</result>
+			<result name="failure">/WEB-INF/jsp/error.jsp</result>
+		</action>
+
+
+		<action name="atualizarPerfilPage"
+			class="controller.action.UsuarioAction" method="atualizarUsuarioPage">
+			<result name="success">/WEB-INF/jsp/settings.jsp</result>
+		</action>
+		
+		<action name="atualizarUsuario"
+			class="controller.action.UsuarioAction" method="atualizarUsuario">
+			<result name="success">/WEB-INF/jsp/settings.jsp</result>
+		</action>
+		
+	</package>
+
+</struts>

@@ -1,0 +1,11 @@
+1555941353549	Delete element
+1555944391057	Rename method 'buscarPerfilUsuario'
+1555989378041	Delete element
+1556028390519	Rename resource 'paginaAtualizarPerfil.jsp'
+1556061526596	Rename method 'encerrarConta'
+1556062660686	Rename method 'consultarPerfilUsuario'
+1556062724223	Rename type 'LoginForm'
+1556062786906	Rename type 'AtualizarUsuarioForm'
+1556063643963	Rename field 'loginForm'
+1556160674712	Rename type 'PrincipalAction'
+1556160678406	Rename type 'IniciolAction'

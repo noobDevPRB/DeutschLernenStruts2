@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf8">
+<link rel="stylesheet" href="css/style.css">
+<title>Sing Up</title>
+</head>
+<body>
+	<jsp:include page="menu.html"/>
+	
+	<form action="MainServlet" >
+	
+		E-Mail:	<input type= "email" name="email"/><br/>
+
+		Password: <input type= "password" name = "password"/><br/>
+		
+			<input type= "submit" name="systemlogic" value="SingIn"/>
+	</form>
+
+</body>
+</html>

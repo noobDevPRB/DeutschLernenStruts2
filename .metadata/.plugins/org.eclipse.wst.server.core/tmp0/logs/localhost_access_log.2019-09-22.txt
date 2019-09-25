@@ -1,0 +1,17 @@
+127.0.0.1 - - [22/Sep/2019:10:30:59 -0300] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/index.jsp HTTP/1.1" 200 17126
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/img/logo.png HTTP/1.1" 200 9680
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 78635
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/vendor/jquery-easing/jquery.easing.min.js HTTP/1.1" 200 2532
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/img/img-tibia-2.jpg HTTP/1.1" 200 102023
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 200 54456
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/js/sb-admin-2.min.js HTTP/1.1" 200 1106
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/js/demo/chart-area-demo.js HTTP/1.1" 200 3569
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/vendor/jquery/jquery.min.js HTTP/1.1" 200 86927
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/js/demo/chart-pie-demo.js HTTP/1.1" 200 1057
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/css/sb-admin-2.css HTTP/1.1" 200 241946
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/vendor/chart.js/Chart.min.js HTTP/1.1" 200 158741
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/img/img-tibia-1.jpg HTTP/1.1" 200 102023
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/img/img-tibia-3.jpg HTTP/1.1" 200 102023
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/vendor/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 72112
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:10:31:00 -0300] "GET /zweit_web_projekt/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 74348

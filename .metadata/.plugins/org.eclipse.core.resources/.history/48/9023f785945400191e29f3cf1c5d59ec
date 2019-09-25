@@ -1,0 +1,72 @@
+package controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import model.BEAN.CustomerDataBEAN;
+import model.DAO.CustomerDataDAO;
+
+@SuppressWarnings("serial")
+@WebServlet("/RegisterUser")
+
+public class RegisterUserServlet extends HttpServlet {
+	
+	private int counter = 0;
+		
+	public RegisterUserServlet() {
+		super();
+		// SERVLET CONTAINER
+	}
+	public void init(ServletConfig	config) throws	ServletException {
+		super.init(config);
+		log("Starting servlet");
+	}
+
+	
+	@Override
+	protected void service(HttpServletRequest req, HttpServletResponse resp) 
+			throws ServletException, IOException {
+		counter++;
+		
+		PrintWriter out = resp.getWriter();
+		
+		String nome	= req.getParameter("login");
+		String email = req.getParameter("email");
+		String password	= req.getParameter("password");
+		
+	
+		
+		CustomerDataBEAN userdata = new CustomerDataBEAN();
+		
+		userdata.setLogin(nome);
+		userdata.setMail(email);
+		userdata.setPass(password);
+		
+		
+		CustomerDataDAO dao = new CustomerDataDAO();
+		
+		dao.registerUser(userdata);
+		
+				
+		out.println("<html>");
+		out.println("<body>");
+		out.println("USER  " + userdata.getMail() + userdata.getPass() +"  REGISTERED");								
+		out.println("</body>");
+		out.println("</html>");
+	}
+	
+		public void destroy() {
+			super.destroy();
+			log("Servlet destroyed");
+		
+		
+	}
+
+}

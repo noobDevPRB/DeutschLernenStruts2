@@ -1,0 +1,74 @@
+1555244109860	Rename resource 'signin.jsp'
+1555244226160	Rename resource 'signin4040.jsp'
+1555244290746	Rename resource 'signup.jsp'
+1555244830009	Rename resource 'signin.jsp'
+1555256366031	Delete element
+1555256427730	Move 2 resources to 'Oldsss'
+1555268863646	Delete element
+1555368078641	Rename local variable 'loginform'
+1555368085110	Rename local variable 'mailform'
+1555368092613	Rename local variable 'passform'
+1555369003045	Rename type 'CustomerDataBEAN'
+1555369019311	Rename type 'CustomerDataBussiness'
+1555370945218	Rename local variable 'pass'
+1555370969892	Rename local variable 'mail'
+1555373585105	Rename type 'CustomerDataBusiness'
+1555373621519	Rename type 'CustomerDataDAO'
+1555373646173	Rename local variable 'dao'
+1555373677761	Rename type 'CustomerDataBean'
+1555373714060	Rename local variable 'userdata'
+1555375210910	Delete element
+1555375425335	Delete element
+1555375650648	Rename field 'loginform'
+1555375663017	Rename field 'mailform'
+1555378544441	Delete element
+1555378640246	Delete elements
+1555428253185	Encapsulate field 'resultado'
+1555436259265	Delete element
+1555522579650	Rename compilation unit 'SessionAction.java'
+1555523476690	Delete element
+1555523485059	Delete element
+1555535437586	Delete element
+1555535809722	Move 'menu.jsp' to 'jsp'
+1555535833816	Move 'menu.jsp' to 'WebContent'
+1555539840722	Infer generic type arguments
+1555548430476	Copy compilation unit
+1555599911003	Delete element
+1555601691702	Encapsulate field 'counter'
+1555605804328	Move 'execute.jsp' to 'WebContent'
+1555606835359	Encapsulate field 'counter'
+1555608691524	Copy compilation unit
+1555608699590	Delete element
+1555608942419	Rename resource 'index1.jsp'
+1555609825025	Delete element
+1555609832573	Delete element
+1555617285935	Delete element
+1555619205292	Delete element
+1555625631079	Rename resource 'index.jsp'
+1555626362678	Rename resource 'erro ao logar.jsp'
+1555626388276	Rename resource 'loginerro.jsp'
+1555626458022	Rename resource 'index.html'
+1555675114094	Rename resource 'menu.jsp'
+1555675935755	Delete element
+1555675965981	Move 'logado.jsp' to 'jsp'
+1555675976429	Move 'deslogado.jsp' to 'WEB-INF'
+1555675986810	Move 2 resources to 'jsp'
+1555675988858	Move 'deslogado.jsp' to 'jsp'
+1555675994130	Move 2 resources to 'jsp'
+1555683275691	Rename resource 'logado.jsp'
+1555689675302	Delete element
+1555781312953	Rename field 'usuariodao'
+1555781317687	Rename field 'usuariobean'
+1555781386896	Rename field 'usuaruiobusiness'
+1555781389759	Rename field 'usuariioBusiness'
+1555781463012	Rename method 'validarBusiness'
+1555781501577	Rename method 'validarDAO'
+1555781590747	Rename method 'validarUsuario'
+1555781608183	Rename method 'perfilDAO'
+1555781691350	Rename local variable 'loginForm'
+1555781729378	Rename local variable 'loginForm'
+1555781732932	Rename local variable 'passwordForm'
+1555781740138	Rename local variable 'loginForm'
+1555781743186	Rename local variable 'passwordForm'
+1555781754243	Rename local variable 'loginForm'
+1555781842296	Rename method 'cadastroBusiness'

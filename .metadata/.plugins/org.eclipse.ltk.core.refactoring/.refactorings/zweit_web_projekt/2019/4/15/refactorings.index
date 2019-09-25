@@ -1,0 +1,67 @@
+1554637369132	Copy compilation unit
+1554637383809	Rename resource 'RegisterCustomer.java'
+1554637387472	Move file
+1554637390046	Delete element
+1554638511771	Move 'singin.jsp' to 'WebContent'
+1554640765078	Move 'mainpage.jsp' to 'WebContent'
+1554665714188	Copy compilation unit
+1554665717975	Delete element
+1554665735407	Rename resource 'singin.jsp'
+1554665751067	Rename resource 'singup.jsp'
+1554815814616	Rename resource 'HelloWorld.jsp'
+1554820424547	Delete element
+1554820457287	Delete element
+1554820479565	Delete element
+1554820489518	Copy file
+1554820576818	Delete element
+1554820580257	Delete element
+1554820601692	Delete element
+1555021217781	Move 'registered.jsp' to 'WEB-INF'
+1555021220269	Delete element
+1555021366760	Delete element
+1555021387228	Delete element
+1555021846228	Delete element
+1555021948252	Move 'registered.jsp' to 'WebContent'
+1555022010308	Delete element
+1555022164590	Move 'index.jsp' to 'WebContent'
+1555022471149	Move 'registered.jsp' to 'jsp'
+1555024521664	Rename resource 'menu.html'
+1555024601559	Delete element
+1555061486743	Rename resource 'error.html'
+1555068953417	Move compilation unit
+1555068956573	Delete element
+1555069039512	Rename resource '404.html'
+1555070436036	Move compilation unit
+1555070439892	Move compilation unit
+1555070447341	Delete element
+1555070479847	Move compilation units
+1555070492897	Delete element
+1555070553653	Move compilation unit
+1555071677667	Delete element
+1555071682824	Delete element
+1555071733148	Delete element
+1555071957243	Delete element
+1555077042412	Copy compilation unit
+1555077475409	Copy compilation unit
+1555077492629	Copy compilation unit
+1555077500744	Delete element
+1555087049463	Move 'Register.java' to 'WebContent'
+1555087057969	Move 'Register.java' to 'build'
+1555087066293	Move 'registered.jsp' to 'WebContent'
+1555087068475	Delete element
+1555094837720	Encapsulate field 'holdparam'
+1555095033111	Encapsulate field 'pass'
+1555109953973	Copy compilation unit
+1555109972108	Delete element
+1555109981781	Copy compilation unit
+1555117286821	Delete element
+1555120975335	Delete element
+1555121847960	Move 'success.jsp' to 'jsp'
+1555122537787	Move 'success.jsp' to 'WebContent'
+1555122540941	Delete element
+1555155032598	Delete element
+1555155156511	Delete element
+1555194620189	Delete element
+1555196471209	Rename resource 'signin.jsp'
+1555196492199	Rename resource 'index1.html'
+1555196578728	Rename resource 'signin.html'

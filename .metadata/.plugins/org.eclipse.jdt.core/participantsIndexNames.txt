@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\xxxx\Desktop\Zweit_WEB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3017346340.index
+\zweit_web_projekt\src
+C:\Users\xxxx\Desktop\Zweit_WEB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2496810403.index
+\zweit_web_projekt\src
+C:\Users\xxxx\Desktop\Zweit_WEB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1251912494.index
+\struts2-test\src
+C:\Users\xxxx\Desktop\Zweit_WEB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3526351441.index
+\zweit_web_projekt\src
+C:\Users\xxxx\Desktop\Zweit_WEB\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\950413645.index
+\zweit_web_projekt\src

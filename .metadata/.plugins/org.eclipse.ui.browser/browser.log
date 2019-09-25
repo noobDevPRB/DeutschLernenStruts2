@@ -1,0 +1,495 @@
+
+Apr 05, 2019 15:23:18.35 NEW SESSION
+Apr 05, 2019 15:23:18.35 [2064:5412:0405/152318.349:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 05, 2019 15:24:50.65 [7008:5524:0405/152450.656:ERROR:browser_process_sub_thread.cc(209)] Waited 7 ms for network service
+Apr 05, 2019 15:27:07.89 [7036:4340:0405/152707.895:ERROR:browser_process_sub_thread.cc(209)] Waited 24 ms for network service
+Apr 05, 2019 15:31:59.47 [6292:7032:0405/153159.474:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+
+Apr 09, 2019 11:33:11.04 NEW SESSION
+Apr 09, 2019 11:33:11.04 [7700:6264:0409/113311.044:ERROR:textfield.cc(1768)] NOT IMPLEMENTED
+
+Apr 11, 2019 19:33:00.38 NEW SESSION
+Apr 11, 2019 19:33:00.38 [6088:5976:0411/193300.385:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 11, 2019 19:33:00.44 [6088:1452:0411/193300.448:ERROR:browser_process_sub_thread.cc(209)] Waited 23 ms for network service
+
+Apr 12, 2019 06:26:52.84 NEW SESSION
+Apr 12, 2019 06:26:52.84 [4376:6112:0412/062652.842:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 06:26:52.91 [4376:3344:0412/062652.913:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+Apr 12, 2019 06:27:33.45 [6480:6476:0412/062733.450:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 06:27:33.52 [6480:6152:0412/062733.521:ERROR:browser_process_sub_thread.cc(209)] Waited 20 ms for network service
+Apr 12, 2019 06:38:58.16 [600:6296:0412/063858.161:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 06:38:58.21 [600:6636:0412/063858.214:ERROR:browser_process_sub_thread.cc(209)] Waited 12 ms for network service
+Apr 12, 2019 06:41:35.58 [5520:6240:0412/064135.579:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 06:41:35.66 [5520:4128:0412/064135.669:ERROR:browser_process_sub_thread.cc(209)] Waited 8 ms for network service
+Apr 12, 2019 07:10:34.10 [4128:5436:0412/071034.100:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 07:10:34.37 [4128:5848:0412/071034.370:ERROR:browser_process_sub_thread.cc(209)] Waited 218 ms for network service
+Apr 12, 2019 07:12:06.80 [5436:1384:0412/071206.808:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 07:12:06.84 [5436:2208:0412/071206.848:ERROR:browser_process_sub_thread.cc(209)] Waited 11 ms for network service
+Apr 12, 2019 07:16:19.37 [7988:6352:0412/071619.376:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 07:16:19.40 [7988:8012:0412/071619.409:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 07:21:57.91 [6528:5764:0412/072157.916:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 07:21:57.98 [6528:6088:0412/072157.983:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+Apr 12, 2019 07:41:24.68 [2332:6444:0412/074124.686:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 07:41:24.74 [2332:6344:0412/074124.741:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 12, 2019 07:42:30.94 [6372:5952:0412/074230.942:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 07:42:31.01 [6372:6096:0412/074231.010:ERROR:browser_process_sub_thread.cc(209)] Waited 18 ms for network service
+Apr 12, 2019 07:43:58.88 [1568:1832:0412/074358.881:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 07:43:58.95 [1568:6668:0412/074358.954:ERROR:browser_process_sub_thread.cc(209)] Waited 20 ms for network service
+Apr 12, 2019 08:31:58.18 [7072:7372:0412/083158.187:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 08:31:58.23 [7072:7532:0412/083158.230:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+Apr 12, 2019 08:33:07.32 [7492:6768:0412/083307.325:ERROR:browser_process_sub_thread.cc(209)] Waited 24 ms for network service
+Apr 12, 2019 08:33:53.46 [6732:7348:0412/083353.459:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 08:33:53.50 [6732:5488:0412/083353.509:ERROR:browser_process_sub_thread.cc(209)] Waited 14 ms for network service
+Apr 12, 2019 08:50:25.85 [6792:6900:0412/085025.849:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 08:50:25.88 [6792:7480:0412/085025.885:ERROR:browser_process_sub_thread.cc(209)] Waited 11 ms for network service
+Apr 12, 2019 08:51:19.42 [7752:5840:0412/085119.426:ERROR:browser_process_sub_thread.cc(209)] Waited 12 ms for network service
+Apr 12, 2019 08:52:21.83 [6520:5776:0412/085221.833:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 08:52:21.88 [6520:7904:0412/085221.885:ERROR:browser_process_sub_thread.cc(209)] Waited 23 ms for network service
+Apr 12, 2019 08:54:20.54 [6632:7748:0412/085420.545:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 08:54:20.54 [6632:7748:0412/085420.545:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 08:54:20.54 [6632:7748:0412/085420.545:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 08:54:20.54 [6632:7748:0412/085420.545:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 08:54:24.64 [6012:4284:0412/085424.644:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 08:54:24.68 [6012:5740:0412/085424.687:ERROR:browser_process_sub_thread.cc(209)] Waited 2 ms for network service
+Apr 12, 2019 08:55:07.19 [7880:1832:0412/085507.196:ERROR:browser_process_sub_thread.cc(209)] Waited 14 ms for network service
+Apr 12, 2019 08:56:33.18 [5948:7684:0412/085633.188:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 08:56:33.24 [5948:6372:0412/085633.239:ERROR:browser_process_sub_thread.cc(209)] Waited 19 ms for network service
+
+Apr 12, 2019 09:29:33.30 NEW SESSION
+Apr 12, 2019 09:29:33.30 [5856:3696:0412/092933.299:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 09:29:33.36 [5856:6512:0412/092933.360:ERROR:browser_process_sub_thread.cc(209)] Waited 26 ms for network service
+Apr 12, 2019 09:31:41.15 [5356:4196:0412/093141.158:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 09:31:41.22 [5356:7464:0412/093141.223:ERROR:browser_process_sub_thread.cc(209)] Waited 23 ms for network service
+
+Apr 12, 2019 11:16:30.97 NEW SESSION
+Apr 12, 2019 11:16:30.97 [6660:7536:0412/111630.977:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 11:16:30.98 [6660:7536:0412/111630.977:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 11:16:30.98 [6660:7536:0412/111630.977:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 11:16:30.98 [6660:7536:0412/111630.977:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 11:16:46.04 [7992:6940:0412/111646.048:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 11:16:46.09 [7992:6120:0412/111646.090:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 12, 2019 11:17:27.59 [8124:6220:0412/111727.599:ERROR:browser_process_sub_thread.cc(209)] Waited 11 ms for network service
+Apr 12, 2019 11:18:12.51 [7212:6872:0412/111812.512:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 12, 2019 11:22:07.16 [8124:6064:0412/112207.166:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 11:22:07.23 [8124:6532:0412/112207.232:ERROR:browser_process_sub_thread.cc(209)] Waited 17 ms for network service
+Apr 12, 2019 11:34:53.71 [8060:6016:0412/113453.711:ERROR:browser_process_sub_thread.cc(209)] Waited 21 ms for network service
+Apr 12, 2019 11:39:07.38 [5460:2940:0412/113907.389:ERROR:browser_process_sub_thread.cc(209)] Waited 10 ms for network service
+Apr 12, 2019 11:39:52.27 [7588:8016:0412/113952.274:ERROR:browser_process_sub_thread.cc(209)] Waited 13 ms for network service
+Apr 12, 2019 11:40:31.16 [6816:6060:0412/114031.169:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+
+Apr 12, 2019 11:41:58.85 NEW SESSION
+Apr 12, 2019 11:41:58.85 [2240:5812:0412/114158.855:ERROR:browser_process_sub_thread.cc(209)] Waited 49 ms for network service
+Apr 12, 2019 11:43:26.55 [5224:7592:0412/114326.550:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 12, 2019 11:50:32.87 [7464:5700:0412/115032.877:ERROR:browser_process_sub_thread.cc(209)] Waited 18 ms for network service
+Apr 12, 2019 11:51:56.15 [6692:6004:0412/115156.152:ERROR:browser_process_sub_thread.cc(209)] Waited 19 ms for network service
+Apr 12, 2019 11:52:14.64 [7816:7184:0412/115214.646:ERROR:browser_process_sub_thread.cc(209)] Waited 19 ms for network service
+Apr 12, 2019 11:52:52.45 [7952:4632:0412/115252.453:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 12, 2019 11:54:37.00 [7184:2192:0412/115437.001:ERROR:browser_process_sub_thread.cc(209)] Waited 17 ms for network service
+Apr 12, 2019 11:55:20.62 [360:6208:0412/115520.623:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 11:55:20.67 [360:6784:0412/115520.673:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 12, 2019 11:56:58.68 [6604:5140:0412/115658.689:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+Apr 12, 2019 11:57:21.28 [5584:1468:0412/115721.282:ERROR:browser_process_sub_thread.cc(209)] Waited 14 ms for network service
+Apr 12, 2019 11:58:21.09 [7468:6808:0412/115821.094:ERROR:browser_process_sub_thread.cc(209)] Waited 14 ms for network service
+Apr 12, 2019 11:58:48.88 [8100:7668:0412/115848.887:ERROR:browser_process_sub_thread.cc(209)] Waited 13 ms for network service
+
+Apr 12, 2019 11:59:41.86 NEW SESSION
+Apr 12, 2019 11:59:41.86 [6108:7504:0412/115941.858:ERROR:browser_process_sub_thread.cc(209)] Waited 27 ms for network service
+
+Apr 12, 2019 13:11:09.32 NEW SESSION
+Apr 12, 2019 13:11:09.32 [5996:6384:0412/131109.321:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 13:11:09.32 [5996:6384:0412/131109.321:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 13:11:09.32 [5996:6384:0412/131109.321:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 13:11:09.32 [5996:6384:0412/131109.321:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 13:11:47.47 [5844:2736:0412/131147.479:ERROR:browser_process_sub_thread.cc(209)] Waited 46 ms for network service
+Apr 12, 2019 13:34:15.54 [3996:5288:0412/133415.545:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 13:34:15.54 [3996:5288:0412/133415.545:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 13:34:15.54 [3996:5288:0412/133415.545:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 13:34:15.54 [3996:5288:0412/133415.545:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 13:34:56.62 [5300:6364:0412/133456.626:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 13:34:56.66 [5300:5248:0412/133456.667:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+Apr 12, 2019 13:35:57.72 [5768:1940:0412/133557.726:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 13:35:57.77 [5768:7124:0412/133557.778:ERROR:browser_process_sub_thread.cc(209)] Waited 24 ms for network service
+Apr 12, 2019 13:42:40.33 [2380:3464:0412/134240.338:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 13:42:40.33 [2380:3464:0412/134240.338:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 13:42:40.33 [2380:3464:0412/134240.338:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 13:42:40.33 [2380:3464:0412/134240.338:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 13:42:42.42 [5184:7300:0412/134242.427:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 13:42:42.47 [5184:7928:0412/134242.470:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 12, 2019 13:42:50.41 [2380:3464:0412/134250.417:ERROR:browser_process_sub_thread.cc(209)] Waited 9999 ms for network service
+Apr 12, 2019 13:48:09.44 [5320:7488:0412/134809.440:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 13:48:09.47 [5320:5716:0412/134809.471:ERROR:browser_process_sub_thread.cc(209)] Waited 10 ms for network service
+Apr 12, 2019 13:51:11.53 [5216:6096:0412/135111.536:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 13:51:11.58 [5216:7216:0412/135111.583:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+Apr 12, 2019 13:51:50.51 [916:8024:0412/135150.515:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 13:51:50.56 [916:2500:0412/135150.561:ERROR:browser_process_sub_thread.cc(209)] Waited 13 ms for network service
+Apr 12, 2019 13:52:58.10 [4632:4736:0412/135258.100:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 13:52:58.14 [4632:6424:0412/135258.149:ERROR:browser_process_sub_thread.cc(209)] Waited 13 ms for network service
+Apr 12, 2019 13:56:13.62 [7504:5664:0412/135613.627:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 13:56:13.62 [7504:5664:0412/135613.627:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 13:56:13.62 [7504:5664:0412/135613.627:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 13:56:13.62 [7504:5664:0412/135613.627:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Apr 12, 2019 15:42:12.17 NEW SESSION
+Apr 12, 2019 15:42:12.17 [6836:5420:0412/154212.173:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 15:42:12.23 [6836:4972:0412/154212.224:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 16:09:50.33 [5528:7708:0412/160950.338:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 16:09:50.38 [5528:7652:0412/160950.387:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 12, 2019 16:16:29.12 [7032:7560:0412/161629.121:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 16:16:29.12 [7032:7560:0412/161629.121:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 16:16:29.12 [7032:7560:0412/161629.121:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 16:16:29.12 [7032:7560:0412/161629.121:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 16:16:35.56 [7268:7116:0412/161635.564:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 16:16:35.60 [7268:7360:0412/161635.607:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+Apr 12, 2019 16:16:57.14 [4700:2192:0412/161657.139:ERROR:browser_process_sub_thread.cc(209)] Waited 28 ms for network service
+Apr 12, 2019 16:20:39.76 [5764:6064:0412/162039.765:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 16:20:39.81 [5764:1048:0412/162039.819:ERROR:browser_process_sub_thread.cc(209)] Waited 13 ms for network service
+Apr 12, 2019 16:24:23.73 [2320:2208:0412/162423.732:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 16:24:23.78 [2320:6728:0412/162423.780:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 16:25:56.08 [6852:6040:0412/162556.081:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 16:25:56.08 [6852:6040:0412/162556.081:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 16:25:56.08 [6852:6040:0412/162556.081:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 16:25:56.08 [6852:6040:0412/162556.081:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 16:26:35.32 [6888:7224:0412/162635.324:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 16:26:35.36 [6888:6312:0412/162635.369:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+Apr 12, 2019 16:35:30.35 [5896:7192:0412/163530.350:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 16:35:30.41 [5896:5684:0412/163530.419:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+Apr 12, 2019 16:36:59.57 [6068:2324:0412/163659.577:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 16:36:59.62 [6068:6096:0412/163659.625:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+Apr 12, 2019 16:40:51.75 [4160:7136:0412/164051.759:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 16:40:51.75 [4160:7136:0412/164051.759:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 16:40:51.75 [4160:7136:0412/164051.759:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 16:40:51.77 [4160:7136:0412/164051.759:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 16:43:36.54 [5228:8064:0412/164336.542:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 16:43:36.54 [5228:8064:0412/164336.542:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 16:43:36.54 [5228:8064:0412/164336.542:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 16:43:36.54 [5228:8064:0412/164336.542:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 17:03:21.50 [6088:5444:0412/170321.502:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 17:03:21.50 [6088:5444:0412/170321.502:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 17:03:21.50 [6088:5444:0412/170321.502:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 17:03:21.50 [6088:5444:0412/170321.502:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 17:06:52.04 [6896:7540:0412/170652.044:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 17:06:52.11 [6896:7104:0412/170652.111:ERROR:browser_process_sub_thread.cc(209)] Waited 11 ms for network service
+Apr 12, 2019 17:17:39.78 [6408:7296:0412/171739.781:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 17:17:39.83 [6408:5736:0412/171739.831:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+Apr 12, 2019 17:18:48.44 [8008:336:0412/171848.440:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 17:18:48.48 [8008:6396:0412/171848.481:ERROR:browser_process_sub_thread.cc(209)] Waited 17 ms for network service
+Apr 12, 2019 18:02:36.51 [5172:6764:0412/180236.514:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 18:02:36.51 [5172:6764:0412/180236.514:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 18:02:36.51 [5172:6764:0412/180236.514:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 18:02:36.51 [5172:6764:0412/180236.514:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 18:03:01.92 [2880:6576:0412/180301.919:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 18:03:01.96 [2880:1040:0412/180301.964:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 18:05:17.70 [3608:6120:0412/180517.707:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 18:05:17.70 [3608:6120:0412/180517.707:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 18:05:17.70 [3608:6120:0412/180517.707:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 18:05:17.70 [3608:6120:0412/180517.707:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 18:05:37.44 [1940:6204:0412/180537.440:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 18:05:37.48 [1940:4708:0412/180537.487:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+
+Apr 12, 2019 20:06:25.76 NEW SESSION
+Apr 12, 2019 20:06:25.76 [6320:4668:0412/200625.764:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 20:06:25.80 [6320:2808:0412/200625.807:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 20:25:28.48 [5548:5740:0412/202528.484:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 20:25:28.52 [5548:2860:0412/202528.527:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 20:25:56.89 [8012:4888:0412/202556.895:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 20:25:56.94 [8012:3952:0412/202556.945:ERROR:browser_process_sub_thread.cc(209)] Waited 14 ms for network service
+Apr 12, 2019 20:28:11.30 [8176:7764:0412/202811.302:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 20:28:11.34 [8176:4256:0412/202811.341:ERROR:browser_process_sub_thread.cc(209)] Waited 18 ms for network service
+Apr 12, 2019 20:36:14.77 [3464:2804:0412/203614.774:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 20:36:14.77 [3464:2804:0412/203614.774:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 20:36:14.77 [3464:2804:0412/203614.774:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 20:36:14.77 [3464:2804:0412/203614.774:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 20:39:47.24 [3188:8072:0412/203947.242:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 20:39:47.24 [3188:8072:0412/203947.243:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 20:39:47.24 [3188:8072:0412/203947.243:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 20:39:47.24 [3188:8072:0412/203947.243:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 20:51:03.50 [3604:4712:0412/205103.505:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 20:51:03.54 [3604:2996:0412/205103.549:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+Apr 12, 2019 21:17:29.79 [5388:3520:0412/211729.796:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 21:17:29.79 [5388:3520:0412/211729.796:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 21:17:29.79 [5388:3520:0412/211729.796:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 21:17:29.79 [5388:3520:0412/211729.796:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 21:18:28.32 [4004:7556:0412/211828.327:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 21:18:28.32 [4004:7556:0412/211828.327:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 21:18:28.32 [4004:7556:0412/211828.327:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 21:18:28.32 [4004:7556:0412/211828.327:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 21:26:48.85 [7180:6368:0412/212648.857:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 21:26:48.85 [7180:6368:0412/212648.857:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 21:26:48.85 [7180:6368:0412/212648.857:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 21:26:48.85 [7180:6368:0412/212648.857:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 21:27:09.66 [5708:7648:0412/212709.666:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 21:27:09.70 [5708:2216:0412/212709.707:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+Apr 12, 2019 21:27:53.77 [6236:4224:0412/212753.773:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 21:27:53.82 [6236:2084:0412/212753.823:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+
+Apr 12, 2019 21:33:15.08 NEW SESSION
+Apr 12, 2019 21:33:15.08 [6376:7624:0412/213315.077:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 21:33:15.08 [6376:7624:0412/213315.077:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 21:33:15.08 [6376:7624:0412/213315.077:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 21:33:15.08 [6376:7624:0412/213315.077:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 21:49:52.30 [5376:5792:0412/214952.303:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 21:49:52.30 [5376:5792:0412/214952.303:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 21:49:52.30 [5376:5792:0412/214952.303:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 21:49:52.30 [5376:5792:0412/214952.303:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 21:56:59.03 [8024:540:0412/215659.030:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 21:56:59.03 [8024:540:0412/215659.030:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 21:56:59.03 [8024:540:0412/215659.030:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 21:56:59.03 [8024:540:0412/215659.030:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 21:56:59.10 [0412/215659.105:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+Apr 12, 2019 22:02:48.44 [3112:6176:0412/220248.440:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:11:42.33 [6424:5844:0412/221142.333:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 22:11:42.33 [6424:5844:0412/221142.334:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 22:11:42.33 [6424:5844:0412/221142.334:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 22:11:42.33 [6424:5844:0412/221142.334:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 22:14:47.71 [3860:3692:0412/221447.713:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:14:47.75 [3860:5044:0412/221447.756:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 22:18:34.10 [7464:4760:0412/221834.105:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:18:34.41 [7464:2424:0412/221834.413:ERROR:browser_process_sub_thread.cc(209)] Waited 246 ms for network service
+Apr 12, 2019 22:19:41.36 [6456:5776:0412/221941.365:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:19:41.42 [6456:7236:0412/221941.425:ERROR:browser_process_sub_thread.cc(209)] Waited 20 ms for network service
+Apr 12, 2019 22:29:04.67 [5848:600:0412/222904.676:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 22:29:04.67 [5848:600:0412/222904.676:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 22:29:04.67 [5848:600:0412/222904.676:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 22:29:04.67 [5848:600:0412/222904.676:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 22:35:10.28 [2668:3548:0412/223510.282:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:35:10.32 [2668:1188:0412/223510.325:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+Apr 12, 2019 22:39:52.49 [3696:2292:0412/223952.494:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 22:39:52.49 [3696:2292:0412/223952.494:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 22:39:52.49 [3696:2292:0412/223952.494:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 22:39:52.49 [3696:2292:0412/223952.494:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 22:46:34.72 [7864:8140:0412/224634.726:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 22:46:34.72 [7864:8140:0412/224634.727:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 22:46:34.72 [7864:8140:0412/224634.727:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 22:46:34.72 [7864:8140:0412/224634.727:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 22:51:02.88 [4268:6400:0412/225102.887:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 22:51:02.88 [4268:6400:0412/225102.888:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 22:51:02.88 [4268:6400:0412/225102.888:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 22:51:02.88 [4268:6400:0412/225102.888:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 22:54:29.68 [8148:7300:0412/225429.681:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:54:29.72 [8148:7208:0412/225429.725:ERROR:browser_process_sub_thread.cc(209)] Waited 7 ms for network service
+Apr 12, 2019 22:56:49.29 [4900:6164:0412/225649.282:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:56:49.33 [4900:7876:0412/225649.339:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 12, 2019 22:57:14.74 [6288:2852:0412/225714.742:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 22:57:14.79 [6288:2744:0412/225714.794:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 12, 2019 23:02:40.99 [7700:1600:0412/230240.991:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 23:02:41.03 [7700:7064:0412/230241.039:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 12, 2019 23:22:33.03 [6444:5212:0412/232233.034:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 23:22:33.03 [6444:5212:0412/232233.034:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 23:22:33.03 [6444:5212:0412/232233.034:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 23:22:33.03 [6444:5212:0412/232233.034:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 23:23:02.30 [5864:7992:0412/232302.309:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 23:23:02.35 [5864:6856:0412/232302.356:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+Apr 12, 2019 23:26:41.19 [6496:2156:0412/232641.194:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 12, 2019 23:26:41.19 [6496:2156:0412/232641.194:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 12, 2019 23:26:41.19 [6496:2156:0412/232641.194:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 12, 2019 23:26:41.19 [6496:2156:0412/232641.194:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 12, 2019 23:28:39.54 [7960:6044:0412/232839.542:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 12, 2019 23:28:39.58 [7960:7724:0412/232839.585:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+
+Apr 13, 2019 07:14:27.92 NEW SESSION
+Apr 13, 2019 07:14:27.92 [4968:4744:0413/071427.917:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 07:14:27.97 [4968:4360:0413/071427.972:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 13, 2019 07:20:01.38 [4464:5820:0413/072001.379:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 07:20:01.42 [4464:2952:0413/072001.427:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 13, 2019 07:23:36.19 [1956:7152:0413/072336.194:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 07:23:36.25 [1956:2500:0413/072336.254:ERROR:browser_process_sub_thread.cc(209)] Waited 20 ms for network service
+Apr 13, 2019 07:26:21.44 [2952:5896:0413/072621.445:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 07:26:21.50 [2952:6420:0413/072621.504:ERROR:browser_process_sub_thread.cc(209)] Waited 17 ms for network service
+
+Apr 13, 2019 07:40:53.57 NEW SESSION
+Apr 13, 2019 07:40:53.57 [6564:6032:0413/074053.575:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 13, 2019 07:40:53.57 [6564:6032:0413/074053.575:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 13, 2019 07:40:53.57 [6564:6032:0413/074053.575:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 13, 2019 07:40:53.57 [6564:6032:0413/074053.575:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 13, 2019 07:42:09.84 [6796:5748:0413/074209.840:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 07:44:27.65 [7080:4744:0413/074427.657:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 07:44:27.69 [7080:5436:0413/074427.699:ERROR:browser_process_sub_thread.cc(209)] Waited 18 ms for network service
+
+Apr 13, 2019 17:50:12.26 NEW SESSION
+Apr 13, 2019 17:50:12.26 [6072:5964:0413/175012.264:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 13, 2019 17:50:12.26 [6072:5964:0413/175012.264:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 13, 2019 17:50:12.26 [6072:5964:0413/175012.264:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 13, 2019 17:50:12.26 [6072:5964:0413/175012.264:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 13, 2019 17:52:52.02 [8000:7948:0413/175252.029:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 13, 2019 17:52:52.03 [8000:7948:0413/175252.029:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 13, 2019 17:52:52.03 [8000:7948:0413/175252.029:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 13, 2019 17:52:52.03 [8000:7948:0413/175252.029:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 13, 2019 19:50:09.63 [7492:5216:0413/195009.631:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 19:50:09.68 [7492:6872:0413/195009.686:ERROR:browser_process_sub_thread.cc(209)] Waited 9 ms for network service
+Apr 13, 2019 20:01:49.19 [2672:2876:0413/200149.198:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 13, 2019 20:01:49.19 [2672:2876:0413/200149.198:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 13, 2019 20:01:49.19 [2672:2876:0413/200149.198:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 13, 2019 20:01:49.19 [2672:2876:0413/200149.198:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 13, 2019 20:04:59.94 [6740:3336:0413/200459.942:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 13, 2019 20:04:59.94 [6740:3336:0413/200459.942:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 13, 2019 20:04:59.94 [6740:3336:0413/200459.942:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 13, 2019 20:04:59.94 [6740:3336:0413/200459.942:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 13, 2019 20:13:05.70 [6320:4756:0413/201305.703:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 13, 2019 20:13:05.76 [6320:5600:0413/201305.765:ERROR:browser_process_sub_thread.cc(209)] Waited 7 ms for network service
+
+Apr 14, 2019 10:32:16.97 NEW SESSION
+Apr 14, 2019 10:32:16.97 [6308:7068:0414/103216.975:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 14, 2019 10:32:16.97 [6308:7068:0414/103216.977:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 14, 2019 10:32:16.97 [6308:7068:0414/103216.977:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 14, 2019 10:32:16.97 [6308:7068:0414/103216.977:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 14, 2019 10:32:17.12 [6308:7068:0414/103217.120:ERROR:browser_process_sub_thread.cc(209)] Waited 22 ms for network service
+Apr 14, 2019 10:32:36.42 [4640:1588:0414/103236.429:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 10:32:36.47 [4640:4168:0414/103236.470:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+Apr 14, 2019 10:42:00.39 [6028:6060:0414/104200.390:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 10:42:00.43 [6028:6292:0414/104200.434:ERROR:browser_process_sub_thread.cc(209)] Waited 17 ms for network service
+Apr 14, 2019 10:48:56.20 [4996:6132:0414/104856.201:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 10:48:56.25 [4996:6148:0414/104856.251:ERROR:browser_process_sub_thread.cc(209)] Waited 15 ms for network service
+Apr 14, 2019 10:56:26.66 [6340:5644:0414/105626.663:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 10:56:26.72 [6340:6392:0414/105626.711:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 14, 2019 12:46:47.18 [4100:6840:0414/124647.187:ERROR:CONSOLE(7822)] "Ignoring unauthorized client request from null", source: chrome-devtools://devtools/bundled/shell.js (7822)
+Apr 14, 2019 12:57:52.98 [4100:6840:0414/125752.986:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 13:04:48.14 [7160:6940:0414/130448.140:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 13:04:48.18 [7160:5180:0414/130448.185:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 14, 2019 13:06:28.39 [6272:1644:0414/130628.397:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+Apr 14, 2019 13:11:00.36 NEW SESSION
+Apr 14, 2019 13:11:00.36 [7164:6204:0414/131100.357:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 13:11:00.40 [7164:3524:0414/131100.398:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+Apr 14, 2019 13:11:21.66 [6628:3844:0414/131121.662:ERROR:browser_process_sub_thread.cc(209)] Waited 27 ms for network service
+Apr 14, 2019 13:13:52.56 [5004:6592:0414/131352.568:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 13:13:52.62 [5004:2052:0414/131352.624:ERROR:browser_process_sub_thread.cc(209)] Waited 8 ms for network service
+Apr 14, 2019 13:15:17.34 [5180:6732:0414/131517.344:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 13:15:17.37 [5180:5092:0414/131517.377:ERROR:browser_process_sub_thread.cc(209)] Waited 9 ms for network service
+Apr 14, 2019 13:15:54.40 [3216:6544:0414/131554.407:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 14, 2019 13:30:16.94 [6904:3904:0414/133016.941:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 13:30:16.98 [6904:3528:0414/133016.985:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+Apr 14, 2019 14:07:59.88 [6448:5908:0414/140759.889:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 14:07:59.92 [6448:5684:0414/140759.929:ERROR:browser_process_sub_thread.cc(209)] Waited 3 ms for network service
+Apr 14, 2019 14:08:57.27 [4700:3000:0414/140857.275:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 14:08:57.30 [4700:648:0414/140857.307:ERROR:browser_process_sub_thread.cc(209)] Waited 7 ms for network service
+Apr 14, 2019 14:28:32.67 [3972:5372:0414/142832.674:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 14, 2019 14:28:32.71 [3972:7104:0414/142832.719:ERROR:browser_process_sub_thread.cc(209)] Waited 6 ms for network service
+
+Apr 17, 2019 14:51:34.33 NEW SESSION
+Apr 17, 2019 14:51:34.33 [5640:4948:0417/145134.331:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+Apr 19, 2019 09:11:57.88 NEW SESSION
+Apr 19, 2019 09:11:57.88 [3360:5068:0419/091157.887:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 19, 2019 09:11:57.93 [3360:464:0419/091157.931:ERROR:browser_process_sub_thread.cc(209)] Waited 5 ms for network service
+
+Apr 20, 2019 12:41:32.03 NEW SESSION
+Apr 20, 2019 12:41:32.03 [4708:7044:0420/124132.031:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 20, 2019 12:41:32.03 [4708:7044:0420/124132.031:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 20, 2019 12:41:32.03 [4708:7044:0420/124132.031:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 20, 2019 12:41:32.03 [4708:7044:0420/124132.031:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Apr 22, 2019 14:14:00.21 NEW SESSION
+Apr 22, 2019 14:14:00.21 [7144:6324:0422/141400.215:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 22, 2019 14:14:00.22 [7144:6324:0422/141400.215:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 22, 2019 14:14:00.22 [7144:6324:0422/141400.215:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 22, 2019 14:14:00.22 [7144:6324:0422/141400.215:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Apr 24, 2019 01:29:19.17 NEW SESSION
+Apr 24, 2019 01:29:19.17 [6844:8980:0424/012919.170:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 24, 2019 01:29:19.17 [6844:8980:0424/012919.170:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 24, 2019 01:29:19.17 [6844:8980:0424/012919.170:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 24, 2019 01:29:19.17 [6844:8980:0424/012919.170:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 24, 2019 01:31:24.61 [9100:3668:0424/013124.616:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 24, 2019 01:31:24.61 [9100:3668:0424/013124.616:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 24, 2019 01:31:24.61 [9100:3668:0424/013124.616:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 24, 2019 01:31:24.61 [9100:3668:0424/013124.616:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Apr 30, 2019 23:03:54.38 NEW SESSION
+Apr 30, 2019 23:03:54.38 [3308:4632:0430/230354.381:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 30, 2019 23:03:54.43 [3308:5584:0430/230354.434:ERROR:browser_process_sub_thread.cc(209)] Waited 16 ms for network service
+Apr 30, 2019 23:06:25.80 [2924:2344:0430/230625.804:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+Apr 30, 2019 23:06:25.85 [2924:1864:0430/230625.854:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+
+May 04, 2019 22:34:10.39 NEW SESSION
+May 04, 2019 22:34:10.39 [4060:5696:0504/223410.390:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+May 04, 2019 22:34:10.39 [4060:5696:0504/223410.390:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 04, 2019 22:34:10.39 [4060:5696:0504/223410.391:ERROR:disk_cache.cc(184)] Unable to create cache
+May 04, 2019 22:34:10.39 [4060:5696:0504/223410.391:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+May 04, 2019 22:34:10.54 [4060:5696:0504/223410.548:ERROR:browser_process_sub_thread.cc(209)] Waited 10 ms for network service
+May 04, 2019 22:38:29.27 [4204:3976:0504/223829.273:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+May 04, 2019 22:38:29.27 [4204:3976:0504/223829.273:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 04, 2019 22:38:29.27 [4204:3976:0504/223829.273:ERROR:disk_cache.cc(184)] Unable to create cache
+May 04, 2019 22:38:29.27 [4204:3976:0504/223829.273:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+May 04, 2019 22:44:52.64 [3224:3840:0504/224452.643:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+May 04, 2019 22:44:52.64 [3224:3840:0504/224452.643:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 04, 2019 22:44:52.64 [3224:3840:0504/224452.643:ERROR:disk_cache.cc(184)] Unable to create cache
+May 04, 2019 22:44:52.64 [3224:3840:0504/224452.643:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+May 04, 2019 22:46:53.76 [5628:4792:0504/224653.763:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+May 04, 2019 22:46:53.76 [5628:4792:0504/224653.763:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 04, 2019 22:46:53.76 [5628:4792:0504/224653.763:ERROR:disk_cache.cc(184)] Unable to create cache
+May 04, 2019 22:46:53.76 [5628:4792:0504/224653.763:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+May 04, 2019 22:47:56.32 [4784:5484:0504/224756.326:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+May 04, 2019 22:47:56.32 [4784:5484:0504/224756.326:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 04, 2019 22:47:56.32 [4784:5484:0504/224756.326:ERROR:disk_cache.cc(184)] Unable to create cache
+May 04, 2019 22:47:56.32 [4784:5484:0504/224756.326:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+May 04, 2019 23:11:52.50 [5792:2532:0504/231152.505:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+May 04, 2019 23:11:52.50 [5792:2532:0504/231152.505:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 04, 2019 23:11:52.50 [5792:2532:0504/231152.505:ERROR:disk_cache.cc(184)] Unable to create cache
+May 04, 2019 23:11:52.50 [5792:2532:0504/231152.505:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+May 04, 2019 23:35:26.48 [6580:6736:0504/233526.483:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+May 04, 2019 23:35:26.53 [6580:7004:0504/233526.530:ERROR:browser_process_sub_thread.cc(209)] Waited 4 ms for network service
+
+May 07, 2019 12:52:25.82 NEW SESSION
+May 07, 2019 12:52:25.82 [6408:6056:0507/125225.820:ERROR:cache_util_win.cc(21)] Unable to move the cache: 0
+May 07, 2019 12:52:25.82 [6408:6056:0507/125225.820:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 07, 2019 12:52:25.82 [6408:6056:0507/125225.820:ERROR:disk_cache.cc(185)] Unable to create cache
+May 07, 2019 12:52:25.82 [6408:6056:0507/125225.820:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+May 07, 2019 13:57:00.42 [728:5980:0507/135700.424:ERROR:cache_util_win.cc(21)] Unable to move the cache: 0
+May 07, 2019 13:57:00.42 [728:5980:0507/135700.424:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 07, 2019 13:57:00.42 [728:5980:0507/135700.424:ERROR:disk_cache.cc(185)] Unable to create cache
+May 07, 2019 13:57:00.42 [728:5980:0507/135700.424:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+May 07, 2019 15:37:05.44 [1184:8328:0507/153705.440:ERROR:cache_util_win.cc(21)] Unable to move the cache: 0
+May 07, 2019 15:37:05.44 [1184:8328:0507/153705.440:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 07, 2019 15:37:05.44 [1184:8328:0507/153705.440:ERROR:disk_cache.cc(185)] Unable to create cache
+May 07, 2019 15:37:05.44 [1184:8328:0507/153705.440:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+May 07, 2019 17:09:05.25 [3116:7992:0507/170905.257:ERROR:cache_util_win.cc(21)] Unable to move the cache: 0
+May 07, 2019 17:09:05.25 [3116:7992:0507/170905.257:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 07, 2019 17:09:05.25 [3116:7992:0507/170905.257:ERROR:disk_cache.cc(185)] Unable to create cache
+May 07, 2019 17:09:05.25 [3116:7992:0507/170905.257:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+
+Jun 03, 2019 15:09:12.12 NEW SESSION
+Jun 03, 2019 15:09:12.12 [1396:4312:0603/150912.124:ERROR:http_bridge.cc(127)] NOT IMPLEMENTED
+Jun 03, 2019 15:09:12.20 [1396:3468:0603/150912.203:ERROR:browser_process_sub_thread.cc(217)] Waited 47 ms for network service
+
+Jul 10, 2019 18:12:37.74 NEW SESSION
+Jul 10, 2019 18:12:37.74 [3860:7084:0710/181237.738:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 10, 2019 18:12:37.78 [3860:7092:0710/181237.788:ERROR:browser_process_sub_thread.cc(221)] Waited 14 ms for network service
+
+Jul 11, 2019 17:36:09.10 NEW SESSION
+Jul 11, 2019 17:36:09.10 [528:5392:0711/173609.098:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 11, 2019 17:36:09.13 [528:4876:0711/173609.137:ERROR:browser_process_sub_thread.cc(221)] Waited 5 ms for network service
+Jul 11, 2019 17:46:25.23 [5096:5216:0711/174625.232:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 11, 2019 17:46:25.27 [5096:4080:0711/174625.271:ERROR:browser_process_sub_thread.cc(221)] Waited 5 ms for network service
+
+Jul 11, 2019 17:59:25.56 NEW SESSION
+Jul 11, 2019 17:59:25.56 [6688:6644:0711/175925.564:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 11, 2019 17:59:25.56 [6688:6644:0711/175925.564:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 11, 2019 17:59:25.56 [6688:6644:0711/175925.564:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 11, 2019 17:59:25.56 [6688:6644:0711/175925.564:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+
+Jul 16, 2019 19:51:13.23 NEW SESSION
+Jul 16, 2019 19:51:13.23 [4268:2052:0716/195113.234:ERROR:browser_process_sub_thread.cc(221)] Waited 3 ms for network service
+
+Jul 30, 2019 15:18:10.61 NEW SESSION
+Jul 30, 2019 15:18:10.61 [9340:9104:0730/151810.608:ERROR:browser_process_sub_thread.cc(221)] Waited 9 ms for network service
+
+Aug 06, 2019 23:02:31.89 NEW SESSION
+Aug 06, 2019 23:02:31.89 [5864:916:0806/230231.887:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Aug 06, 2019 23:02:31.89 [5864:916:0806/230231.887:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Aug 06, 2019 23:02:31.89 [5864:916:0806/230231.887:ERROR:disk_cache.cc(178)] Unable to create cache
+Aug 06, 2019 23:02:31.89 [5864:916:0806/230231.888:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+
+Aug 07, 2019 10:56:28.39 NEW SESSION
+Aug 07, 2019 10:56:28.39 [3880:6008:0807/105628.388:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Aug 07, 2019 10:56:28.39 [3880:6008:0807/105628.388:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Aug 07, 2019 10:56:28.39 [3880:6008:0807/105628.388:ERROR:disk_cache.cc(178)] Unable to create cache
+Aug 07, 2019 10:56:28.39 [3880:6008:0807/105628.388:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+
+Sep 22, 2019 10:31:00.37 NEW SESSION
+Sep 22, 2019 10:31:00.37 [6560:5740:0922/103100.372:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Sep 22, 2019 10:31:00.37 [6560:5740:0922/103100.373:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\xxxx\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Sep 22, 2019 10:31:00.38 [6560:5740:0922/103100.373:ERROR:disk_cache.cc(178)] Unable to create cache
+Sep 22, 2019 10:31:00.38 [6560:5740:0922/103100.373:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+
+Sep 25, 2019 01:01:29.31 NEW SESSION
+Sep 25, 2019 01:01:29.31 [4124:2956:0925/010129.310:ERROR:data_pack.cc(117)] Could not open pak file for writing: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)

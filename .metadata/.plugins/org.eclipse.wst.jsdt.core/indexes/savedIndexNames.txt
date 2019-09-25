@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\xxxx\Desktop\Zweit_WEB\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2551831939.index
+3526351441.index
+2496810403.index
+3018468289.index
+1729452956.index
+238585573.index
+3257372724.index
+2784757440.index
